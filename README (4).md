@@ -92,3 +92,18 @@ This project demonstrates how OCR technology can be integrated into a web applic
 
 https://drive.google.com/file/d/12W-EzBGLtuOGTG8PtQd8GACj7dNW6xJG/view?usp=sharing
 
+
+---
+title: Ocr Using Easy Ocr
+emoji: 🚀
+colorFrom: green
+colorTo: green
+sdk: streamlit
+sdk_version: 1.38.0
+app_file: app.py
+pinned: false
+short_description: Extract Both Hindi and English Text from image
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
