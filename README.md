@@ -30,7 +30,7 @@ Pillow
 
 ```
 
-/OCR-Document-Search-App
+/OCR-Document-Search-App-Using_EasyOcr
 │
 ├── app.py              # Main application file
 ├── ocr_utils.py        # Utility functions for OCR processing
@@ -50,7 +50,7 @@ git clone <repository-url>
 
 
 ```
-cd OCR-Document-Search-App
+cd OCR-Document-Search-App-Using_EasyOcr
 ```
 
 ## 3.Install Dependencies:
@@ -68,11 +68,7 @@ streamlit run app.py
 Open your web browser and go to http://localhost:8501.
 ```
 
-##Features 
 
-##Image Upload: Users can upload images in JPG, JPEG, or PNG format.
-Text Extraction: The application uses EasyOCR to extract text from the uploaded image.
-Keyword Search: Users can enter keywords to search within the extracted text, with matching sections highlighted.
 
 ## Features
 
