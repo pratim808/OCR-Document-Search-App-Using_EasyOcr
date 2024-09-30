@@ -43,7 +43,7 @@ Pillow
 
 
 ```
-git clone <repository-url>
+git clone https://github.com/pratim808/OCR-Document-Search-App-Using_EasyOcr.git
 ```
 
 ## 2.Navigate to the Project Directory:
